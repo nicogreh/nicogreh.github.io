@@ -6,7 +6,7 @@
 
 var things = ["Tomfoolery", "Horseplay", "Nonsense", "Bruhaha", "Shenanigans", "Hooliganary"];
 var programmers = ["fools", "fiends", "jokers", "flunkys", "spunkys", "trunkys"]
-var castles = ["museums", "bridges", "cities"]
+var castles = ["white castle", "waffle house", "Arby's"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
 
