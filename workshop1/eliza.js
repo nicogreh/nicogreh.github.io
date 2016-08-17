@@ -29,10 +29,10 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "What is up my dude?"
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
+    "Are you afraid?",
     "What do you think about machines have to do with your problem?",
     "Don't you think computers can help people",
     "Why do you mention computers?",
@@ -44,9 +44,9 @@ var rules = {
     "I am not interested in names",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "Please apologize",
+    "Apologies are necessary",
+    "Why you cryin?",
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
@@ -57,9 +57,9 @@ var rules = {
     "What is the connection between me and ~y?",
   ],
   "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
-    "Why do you think I should recall ~y now?",
-    "What about ~y?",
+    "I have the memory of a goddamn elephant, of course I remember ~y?",
+    "How should I know?",
+    "Did you ever think ~y? Dingus.",
     "You mentioned ~y",
   ],
   "~*x I want ~*y": [
@@ -68,9 +68,9 @@ var rules = {
     "Suppose you got ~y soon.",
   ],
     "~*x I need ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you need ~y?",
-    "Suppose you got ~y soon.",
+    "Keep it to yourself",
+    "Beggers can't be choosers",
+    "Keep fucking dreaming bud",
   ],
   "~*x if ~*y": [
     "Do you really think it's likely that ~y?",
@@ -228,10 +228,10 @@ var rules = {
 };
 
 var default_responses = [
-  "Very interesting",
-  "I am not sure I understand you fully",
-  "What does that suggest to you?",
-  "Please continue",
+  "No Shit!",
+  "Are you joshing me?",
+  "What are you tryna?",
+  "Please stop",
   "Go on",
   "Do you feel strongly about discussing such things?",
 ];
